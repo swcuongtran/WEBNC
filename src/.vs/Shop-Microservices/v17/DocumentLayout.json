@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Models\\Product.cs",
+              "RelativeToolTip": "Catalog.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:46:23.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Catalog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:43:28.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalog.API",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T09:43:00.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
