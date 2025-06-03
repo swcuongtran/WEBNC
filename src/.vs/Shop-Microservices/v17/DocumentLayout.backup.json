@@ -1,7 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\WEBNC\\Shop-Microservices\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQueryHandler.cs*",
+              "RelativeToolTip": "BuildingBlocks\\CQRS\\IQueryHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:09:06.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommandHandler.cs*",
+              "RelativeToolTip": "BuildingBlocks\\CQRS\\ICommandHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:04:01.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\IQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "RelativeToolTip": "BuildingBlocks\\CQRS\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:48:12.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuildingBlocks.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T10:42:49.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeToolTip": "Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:03:16.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeToolTip": "Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:02:54.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Catalog.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T09:43:00.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommand.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommand.cs",
+              "RelativeToolTip": "BuildingBlocks\\CQRS\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:43:49.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Models\\Product.cs",
+              "RelativeToolTip": "Catalog.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:46:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Catalog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:43:28.136Z"
             }
           ]
         }
