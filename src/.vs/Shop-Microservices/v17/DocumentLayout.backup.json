@@ -3,8 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,32 +74,8 @@
       "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FE444D-AEE5-4AE9-89A1-FB4C56594920}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +85,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,128 +93,250 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
-              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\IQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQueryHandler.cs*",
-              "RelativeToolTip": "BuildingBlocks\\CQRS\\IQueryHandler.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:09:06.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ICommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
-              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\ICommandHandler.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommandHandler.cs*",
-              "RelativeToolTip": "BuildingBlocks\\CQRS\\ICommandHandler.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:04:01.328Z",
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAiwLcBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-08T11:00:16.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQuery.cs",
-              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\IQuery.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQuery.cs",
-              "RelativeToolTip": "BuildingBlocks\\CQRS\\IQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "GetProductsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "RelativeToolTip": "Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:48:12.882Z",
+              "WhenOpened": "2025-06-08T09:14:31.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BuildingBlocks.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\BuildingBlocks.csproj",
-              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\BuildingBlocks.csproj",
-              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T10:42:49.559Z",
+              "DocumentIndex": 0,
+              "Title": "GetProductsEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "RelativeToolTip": "Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:14:15.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeToolTip": "Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\GlobalUsing.cs",
+              "RelativeToolTip": "Catalog.API\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:03:16.533Z"
+              "WhenOpened": "2025-06-03T16:24:02.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "CreateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeToolTip": "Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:02:54.553Z"
+              "WhenOpened": "2025-06-02T10:02:54.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Catalog.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\appsettings.json",
+              "RelativeToolTip": "Catalog.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T01:43:57.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Catalog.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Dockerfile",
+              "RelativeToolTip": "Catalog.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-06T07:14:11.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeToolTip": "Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:03:16.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Models\\Product.cs",
+              "RelativeToolTip": "Catalog.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:46:23.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-06T07:15:17.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-06T07:15:46.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "docker-compose",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-06T07:15:21.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Catalog.API.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj",
               "RelativeDocumentMoniker": "Catalog.API\\Catalog.API.csproj",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj",
               "RelativeToolTip": "Catalog.API\\Catalog.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-02T09:43:00.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICommand.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommand.cs",
-              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\ICommand.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommand.cs",
-              "RelativeToolTip": "BuildingBlocks\\CQRS\\ICommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:43:49.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Catalog.API\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Models\\Product.cs",
-              "RelativeToolTip": "Catalog.API\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:46:23.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Program.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Program.cs",
               "RelativeToolTip": "Catalog.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:43:28.136Z"
+              "WhenOpened": "2025-06-02T09:43:28.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\IQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "RelativeToolTip": "BuildingBlocks\\CQRS\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:48:12.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "RelativeToolTip": "BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:09:06.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "RelativeToolTip": "BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:04:01.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommand.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommand.cs",
+              "RelativeToolTip": "BuildingBlocks\\CQRS\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:43:49.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuildingBlocks.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T10:42:49.559Z",
+              "EditorCaption": ""
             }
           ]
         }

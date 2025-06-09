@@ -1,0 +1,40 @@
+name: dockercompose11122603179547868816
+services:
+  catalogdb:
+    container_name: catalogdb
+    environment:
+      POSTGRES_DB: catalogdb
+      POSTGRES_PASSWORD: catalogpassword
+      POSTGRES_USER: cataloguser
+    image: postgres
+    networks:
+      pg-network: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: postgres_catalog
+        target: /var/lib/postgresql/data
+        volume: {}
+  webapp:
+    build:
+      context: C:\Users\Admin\Desktop\WEBNC\src
+      dockerfile: Dockerfile
+    container_name: webapp
+    depends_on:
+      catalogdb:
+        condition: service_started
+        required: true
+    networks:
+      pg-network: null
+networks:
+  pg-network:
+    name: pg-network
+    external: true
+volumes:
+  postgres_catalog:
+    name: dockercompose11122603179547868816_postgres_catalog
