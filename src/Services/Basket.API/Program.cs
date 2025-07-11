@@ -1,5 +1,3 @@
-using BuildingBlocks.Behavior;
-
 var builder = WebApplication.CreateBuilder(args);
 
 var assembly = typeof(Program).Assembly;
@@ -15,9 +13,16 @@ builder.Services.AddMarten(options =>
     options.Connection(builder.Configuration.GetConnectionString("DefaultConnection")!);
     options.Schema.For<ShoppingCart>().Identity(x => x.UserName);
 }).UseLightweightSessions();
-
+builder.Services.AddScoped<IBasketRepository, BasketRepository>();
+builder.Services.AddExceptionHandler<CustomExceptionHandler>();
+builder.Services.Decorate<IBasketRepository, CachedBasketRepository>();
+builder.Services.AddStackExchangeRedisCache(options =>
+{
+    options.Configuration = builder.Configuration.GetConnectionString("RedisConnection")!;
+});
 var app = builder.Build();
 
 app.MapCarter();
+app.UseExceptionHandler(options => { });
 
 app.Run();

@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\data\\cachedbasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\data\\cachedbasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket\\deletebasket\\deletebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\deletebasket\\deletebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket\\deletebasket\\deletebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\deletebasket\\deletebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\exceptions\\basketnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +67,31 @@
       "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\getbasket\\getbasketendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -55,30 +110,6 @@
       "RelativeMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket\\deletebasket\\deletebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\deletebasket\\deletebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket\\deletebasket\\deletebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\deletebasket\\deletebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\basket.api\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826819DA-DA24-49FC-AFF7-2554A818C0FD}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\admin\\desktop\\webnc\\src\\services\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -91,24 +122,8 @@
       "RelativeMoniker": "D:0:0:{F5E03E87-19CD-217B-FD1F-57440F89F464}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.API\\Catalog.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\admin\\desktop\\webnc\\src\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\behavior\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,15 +146,8 @@
       "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AC28D36-B013-4F48-9BBC-54E765427708}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\admin\\desktop\\webnc\\src\\buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -237,125 +245,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog.API\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T01:20:38.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\appsettings.json",
-              "RelativeToolTip": "Services\\Catalog.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAClAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-11T01:19:41.901Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\appsettings.json",
-              "RelativeToolTip": "Services\\Basket.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-11T01:19:02.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BasketNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
-              "RelativeToolTip": "Services\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
+              "DocumentIndex": 5,
+              "Title": "CachedBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "RelativeToolTip": "Services\\Basket.API\\Data\\CachedBasketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T01:07:56.38Z",
+              "WhenOpened": "2025-07-11T08:58:46.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Basket.API",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket.API.csproj",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Basket.API.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket.API.csproj",
-              "RelativeToolTip": "Services\\Basket.API\\Basket.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-11T01:00:57.713Z",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Program.cs",
+              "RelativeToolTip": "Services\\Basket.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T22:46:05.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BasketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Data\\BasketRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Data\\BasketRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Data\\BasketRepository.cs",
-              "RelativeToolTip": "Services\\Basket.API\\Data\\BasketRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T23:20:30.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IBasketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Data\\IBasketRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Data\\IBasketRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Data\\IBasketRepository.cs",
-              "RelativeToolTip": "Services\\Basket.API\\Data\\IBasketRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T23:19:07.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeToolTip": "Services\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T23:01:32.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Services\\Basket.API\\GlobalUsing.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\GlobalUsing.cs",
               "RelativeToolTip": "Services\\Basket.API\\GlobalUsing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T21:59:27.91Z",
               "EditorCaption": ""
@@ -363,84 +293,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Program.cs",
-              "RelativeToolTip": "Services\\Basket.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA4AAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T22:46:05.06Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Basket.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T01:19:02.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StoreBasketEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
-              "RelativeToolTip": "Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T17:10:37.334Z",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-06T07:15:17.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetBasketEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
-              "RelativeToolTip": "Services\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T17:08:07.1Z",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-06T07:15:46.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StoreBasketHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
-              "RelativeToolTip": "Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAawA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T17:10:49.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BuildingBlocks.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\BuildingBlocks.csproj",
-              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\BuildingBlocks.csproj",
-              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T10:42:49.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "DeleteBasketHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
               "RelativeDocumentMoniker": "Services\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
               "RelativeToolTip": "Services\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T17:11:26.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "DeleteBasketEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
               "RelativeDocumentMoniker": "Services\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
@@ -453,7 +357,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
+              "Title": "StoreBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:10:49.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "Services\\Basket.API\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:56:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "GetBasketHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
               "RelativeDocumentMoniker": "Services\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
@@ -466,120 +396,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "Services\\Basket.API\\Models\\ShoppingCart.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Models\\ShoppingCart.cs",
               "RelativeToolTip": "Services\\Basket.API\\Models\\ShoppingCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T16:58:20.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ShoppingCartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Models\\ShoppingCartItem.cs",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Models\\ShoppingCartItem.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Models\\ShoppingCartItem.cs",
-              "RelativeToolTip": "Services\\Basket.API\\Models\\ShoppingCartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "StoreBasketEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "RelativeToolTip": "Services\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T16:56:06.463Z",
+              "WhenOpened": "2025-07-10T17:10:37.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Catalog.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T07:39:58.799Z",
+              "DocumentIndex": 13,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\Behavior\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\Behavior\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\Behavior\\ValidationBehavior.cs",
+              "RelativeToolTip": "BuildingBlocks\\Behavior\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:48:26.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Catalog.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Catalog.API.csproj",
-              "RelativeDocumentMoniker": "Services\\Catalog.API\\Catalog.API.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Catalog.API.csproj",
-              "RelativeToolTip": "Services\\Catalog.API\\Catalog.API.csproj",
+              "DocumentIndex": 14,
+              "Title": "BasketNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
+              "RelativeToolTip": "Services\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T01:07:56.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetBasketEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "RelativeToolTip": "Services\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T07:39:10.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Basket.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T07:38:25.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Program.cs",
-              "RelativeDocumentMoniker": "Catalog.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Program.cs",
-              "RelativeToolTip": "Catalog.API\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:43:28.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-06T07:15:17.154Z",
+              "WhenOpened": "2025-07-10T17:08:07.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AgIAAAsAAAAAAAAAAABRwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-06T07:15:46.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Catalog.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj",
-              "RelativeDocumentMoniker": "Catalog.API\\Catalog.API.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj",
-              "RelativeToolTip": "Catalog.API\\Catalog.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T09:43:00.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 17,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -592,20 +474,198 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 18,
               "Title": "docker-compose.dcproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.dcproj",
               "RelativeDocumentMoniker": "docker-compose.dcproj",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\docker-compose.dcproj",
               "RelativeToolTip": "docker-compose.dcproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-06T07:15:21.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 19,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-08T11:00:16.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T01:40:43.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Data\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Data\\IBasketRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Data\\IBasketRepository.cs",
+              "RelativeToolTip": "Services\\Basket.API\\Data\\IBasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:19:07.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Data\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Data\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Data\\BasketRepository.cs",
+              "RelativeToolTip": "Services\\Basket.API\\Data\\BasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:20:30.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Basket.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Basket.API.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Basket.API.csproj",
+              "RelativeToolTip": "Services\\Basket.API\\Basket.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T01:00:57.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Catalog.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T01:19:41.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog.API\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T01:20:38.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:01:32.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BuildingBlocks.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T10:42:49.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Catalog.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T07:39:58.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Catalog.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Services\\Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T07:39:10.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Services\\Basket.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Basket.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T07:38:25.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Catalog.API\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:43:28.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Catalog.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Catalog.API\\Catalog.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T09:43:00.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\appsettings.json",
               "RelativeDocumentMoniker": "Catalog.API\\appsettings.json",
@@ -616,7 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Dockerfile",
               "RelativeDocumentMoniker": "Catalog.API\\Dockerfile",
@@ -627,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Catalog.API\\Properties\\launchSettings.json",
@@ -638,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "LoggingBehavior.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\Behavior\\LoggingBehavior.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\Behavior\\LoggingBehavior.cs",
@@ -651,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "GetProductsHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
@@ -662,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "GetProductsEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
@@ -673,20 +733,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "CustomExceptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
               "RelativeToolTip": "BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAABRwDYAAABpAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAIBZwDYAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T03:42:37.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\Exceptions\\NotFoundException.cs",
@@ -699,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Catalog.API\\GlobalUsing.cs",
@@ -710,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "GetProductByCategoryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
@@ -721,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "InternalServerException.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\Exceptions\\InternalServerException.cs",
@@ -734,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\Exceptions\\BadRequestException.cs",
@@ -747,7 +807,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "GetProductByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\GetProductbyId\\GetProductByIdHandler.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\GetProductbyId\\GetProductByIdHandler.cs",
@@ -758,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
@@ -769,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "UpdateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
@@ -780,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "GetProductByIdEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\GetProductbyId\\GetProductByIdEndpoint.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\GetProductbyId\\GetProductByIdEndpoint.cs",
@@ -791,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "GetProductByCategoryEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
@@ -802,7 +862,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "CreateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
@@ -813,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "DeleteProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
@@ -824,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "ProductNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Exceptions\\ProductNotFoundException.cs",
@@ -835,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
@@ -846,7 +906,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "DeleteProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
@@ -857,20 +917,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\Behavior\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "BuildingBlocks\\Behavior\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\Behavior\\ValidationBehavior.cs",
-              "RelativeToolTip": "BuildingBlocks\\Behavior\\ValidationBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:48:26.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\Catalog.API\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Catalog.API\\Models\\Product.cs",
@@ -881,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\ICommandHandler.cs",
@@ -894,20 +941,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ViewState": "AgIAAJkBAAAAAAAAAAAiwLcBAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-08T11:00:16.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQuery.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\IQuery.cs",
@@ -920,7 +954,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\IQueryHandler.cs",
@@ -933,7 +967,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WEBNC\\src\\BuildingBlocks\\CQRS\\ICommand.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\CQRS\\ICommand.cs",

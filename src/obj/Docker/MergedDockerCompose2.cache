@@ -1,22 +1,49 @@
 name: dockercompose11122603179547868816
 services:
+  basketdb:
+    container_name: basketdb
+    environment:
+      POSTGRES_DB: basketdb
+      POSTGRES_PASSWORD: basketpassword
+      POSTGRES_USER: basketuser
+    image: postgres
+    networks:
+      pg-network: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5433"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: postgres_basket
+        target: /var/lib/postgresql/data
+        volume: {}
   catalog.api:
     build:
       context: C:\Users\Admin\Desktop\WEBNC\src
-      dockerfile: Catalog.API/Dockerfile
+      dockerfile: Services/Catalog.API/Dockerfile
+    depends_on:
+      catalogdb:
+        condition: service_started
+        required: true
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       ASPNETCORE_HTTP_PORTS: "8080"
       ASPNETCORE_HTTPS_PORTS: "8081"
+      ConnectionStrings__CatalogDb: Host=catalogdb;Database=catalogdb;User Id=cataloguser;Password=catalogpassword;Persist Security Info=True;Trust Server Certificate=True
     image: catalogapi
     networks:
       default: null
     ports:
       - mode: ingress
         target: 8080
+        published: "6000"
         protocol: tcp
       - mode: ingress
         target: 8081
+        published: "6060"
         protocol: tcp
     volumes:
       - type: bind
@@ -63,6 +90,17 @@ services:
         source: postgres_catalog
         target: /var/lib/postgresql/data
         volume: {}
+  distributedcache:
+    container_name: distributedcache
+    image: redis
+    networks:
+      pg-network: null
+    ports:
+      - mode: ingress
+        target: 6379
+        published: "6379"
+        protocol: tcp
+    restart: always
 networks:
   default:
     name: dockercompose11122603179547868816_default
@@ -70,5 +108,7 @@ networks:
     name: pg-network
     external: true
 volumes:
+  postgres_basket:
+    name: dockercompose11122603179547868816_postgres_basket
   postgres_catalog:
     name: dockercompose11122603179547868816_postgres_catalog

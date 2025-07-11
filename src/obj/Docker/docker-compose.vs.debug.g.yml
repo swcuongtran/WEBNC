@@ -14,7 +14,7 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - C:\Users\Admin\Desktop\WEBNC\src\Catalog.API:/app:rw
+      - C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API:/app:rw
       - C:\Users\Admin\Desktop\WEBNC\src:/src:rw
       - C:\Users\Admin\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\Admin\.nuget\packages:/.nuget/packages:ro

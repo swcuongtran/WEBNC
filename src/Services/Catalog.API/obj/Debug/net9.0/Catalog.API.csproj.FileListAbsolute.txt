@@ -196,9 +196,6 @@ C:\Users\Admin\Desktop\WEBNC\src\Catalog.API\obj\Debug\net9.0\ref\Catalog.API.dl
 C:\Users\Admin\Desktop\WEBNC\src\Catalog.API\bin\Debug\net9.0\HealthChecks.NpgSql.dll
 C:\Users\Admin\Desktop\WEBNC\src\Catalog.API\bin\Debug\net9.0\HealthChecks.UI.Client.dll
 C:\Users\Admin\Desktop\WEBNC\src\Catalog.API\bin\Debug\net9.0\HealthChecks.UI.Core.dll
-C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\Catalog.API.dll
-C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\refint\Catalog.API.dll
-C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\Catalog.API.pdb
 C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\bin\Debug\net9.0\appsettings.json
 C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\bin\Debug\net9.0\Catalog.API.staticwebassets.endpoints.json
@@ -392,5 +389,8 @@ C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\staticweb
 C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\Catalog..F07FDCDC.Up2Date
+C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\Catalog.API.dll
+C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\refint\Catalog.API.dll
+C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\Catalog.API.pdb
 C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\Catalog.API.genruntimeconfig.cache
 C:\Users\Admin\Desktop\WEBNC\src\Services\Catalog.API\obj\Debug\net9.0\ref\Catalog.API.dll

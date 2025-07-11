@@ -14,6 +14,29 @@ services:
       - postgres_catalog:/var/lib/postgresql/data
     networks:
         - pg-network
+
+  basketdb:          
+    container_name: basketdb
+    environment:
+      - POSTGRES_USER=basketuser
+      - POSTGRES_PASSWORD=basketpassword
+      - POSTGRES_DB=basketdb
+    restart: always
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_basket:/var/lib/postgresql/data
+    networks:
+        - pg-network
+
+  distributedcache:
+    container_name: distributedcache
+    restart: always
+    ports:
+      - "6379:6379"
+    networks:
+        - pg-network
+
   catalog.api:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
